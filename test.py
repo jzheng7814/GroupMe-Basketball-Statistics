@@ -1,5 +1,0 @@
-data = {}
-msgtext = ''
-
-if :
-    return
