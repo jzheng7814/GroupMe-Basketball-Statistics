@@ -77,7 +77,7 @@ def help():
         team_stats [Team Abbreviation] [Optional: Season End Year (e.g. 2020-2021 season is 2021)]
     """
 
-client = Client.from_token('XzJ1vmbfp1mkmDRQyGejQMvXrIEI56ndIYY7G6zM')
+client = Client.from_token('-')
 group = None
 bot = None
 for g in client.groups.list().autopage():
