@@ -1,0 +1,5 @@
+data = {}
+msgtext = ''
+
+if :
+    return
